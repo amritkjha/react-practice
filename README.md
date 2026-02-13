@@ -8,3 +8,6 @@
 
 **Dice Roller**
 <img width="1469" height="508" alt="Screenshot 2026-02-12 at 12 24 53 PM" src="https://github.com/user-attachments/assets/ac5f1f35-de1c-4807-a2ea-ca513ad19305" />
+
+**Data Table** - with Pagination
+<img width="1466" height="573" alt="Screenshot 2026-02-13 at 1 08 37 PM" src="https://github.com/user-attachments/assets/5d36e900-33a3-4b05-b6a2-92595eb040af" />
