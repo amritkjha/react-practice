@@ -11,3 +11,6 @@
 
 **Data Table** - with Pagination
 <img width="1466" height="573" alt="Screenshot 2026-02-13 at 1 08 37 PM" src="https://github.com/user-attachments/assets/5d36e900-33a3-4b05-b6a2-92595eb040af" />
+
+**Like button**
+<img width="1470" height="562" alt="Screenshot 2026-02-14 at 10 36 53 AM" src="https://github.com/user-attachments/assets/c4a3b144-c9a6-4403-a5dc-afa8421cd677" />
