@@ -14,3 +14,6 @@
 
 **Like button**
 <img width="1470" height="562" alt="Screenshot 2026-02-14 at 10 36 53 AM" src="https://github.com/user-attachments/assets/c4a3b144-c9a6-4403-a5dc-afa8421cd677" />
+
+**Modal dialog**
+<img width="1466" height="566" alt="Screenshot 2026-02-15 at 4 22 53 PM" src="https://github.com/user-attachments/assets/6535a698-8687-49c0-88e7-a0c28b7277f7" />
