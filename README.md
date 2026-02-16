@@ -17,3 +17,6 @@
 
 **Modal dialog**
 <img width="1466" height="566" alt="Screenshot 2026-02-15 at 4 22 53 PM" src="https://github.com/user-attachments/assets/6535a698-8687-49c0-88e7-a0c28b7277f7" />
+
+**Star rating**
+<img width="1460" height="537" alt="Screenshot 2026-02-16 at 4 28 02 PM" src="https://github.com/user-attachments/assets/14ec5a78-ef71-4019-b877-19bb744cf7d0" />
