@@ -20,3 +20,6 @@
 
 **Star rating**
 <img width="1460" height="537" alt="Screenshot 2026-02-16 at 4 28 02 PM" src="https://github.com/user-attachments/assets/14ec5a78-ef71-4019-b877-19bb744cf7d0" />
+
+**Todo List**
+<img width="1466" height="546" alt="Screenshot 2026-02-17 at 12 04 38 PM" src="https://github.com/user-attachments/assets/44b2f202-bf1e-451a-8986-db30c26b620a" />
