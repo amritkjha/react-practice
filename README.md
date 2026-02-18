@@ -23,3 +23,6 @@
 
 **Todo List**
 <img width="1466" height="546" alt="Screenshot 2026-02-17 at 12 04 38 PM" src="https://github.com/user-attachments/assets/44b2f202-bf1e-451a-8986-db30c26b620a" />
+
+**Traffic Lights**
+<img width="1453" height="640" alt="Screenshot 2026-02-18 at 11 58 10 AM" src="https://github.com/user-attachments/assets/56f52644-b806-4020-a194-fc648d97b602" />
