@@ -26,3 +26,6 @@
 
 **Traffic Lights**
 <img width="1453" height="640" alt="Screenshot 2026-02-18 at 11 58 10 AM" src="https://github.com/user-attachments/assets/56f52644-b806-4020-a194-fc648d97b602" />
+
+**Image Carousel**
+<img width="1455" height="510" alt="Screenshot 2026-02-19 at 11 39 26 AM" src="https://github.com/user-attachments/assets/3438f334-919d-47fa-b396-28c8475144a6" />
