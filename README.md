@@ -29,3 +29,6 @@
 
 **Image Carousel**
 <img width="1455" height="510" alt="Screenshot 2026-02-19 at 11 39 26 AM" src="https://github.com/user-attachments/assets/3438f334-919d-47fa-b396-28c8475144a6" />
+
+**Tic tac toe**
+<img width="2912" height="954" alt="image" src="https://github.com/user-attachments/assets/b98f5310-f1bc-4253-9c18-38ced9142c49" />
