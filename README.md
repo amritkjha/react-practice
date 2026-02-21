@@ -32,3 +32,6 @@
 
 **Tic tac toe**
 <img width="2912" height="954" alt="image" src="https://github.com/user-attachments/assets/b98f5310-f1bc-4253-9c18-38ced9142c49" />
+
+**Job Board**
+<img width="1457" height="538" alt="Screenshot 2026-02-21 at 1 06 22 PM" src="https://github.com/user-attachments/assets/3f7bbc03-6687-49ba-ab53-8d767f659f36" />
