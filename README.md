@@ -44,3 +44,6 @@
 
 **Flight Booker**
 <img width="1451" height="459" alt="Screenshot 2026-02-24 at 12 56 53 PM" src="https://github.com/user-attachments/assets/1291dad7-96c1-418f-a583-8e8e2607024b" />
+
+**Generate Table**
+<img width="1451" height="431" alt="Screenshot 2026-02-25 at 11 59 05 AM" src="https://github.com/user-attachments/assets/84d2a452-a3af-4d14-9df1-2d8cbb2c79d6" />
