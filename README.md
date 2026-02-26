@@ -47,3 +47,6 @@
 
 **Generate Table**
 <img width="1451" height="431" alt="Screenshot 2026-02-25 at 11 59 05 AM" src="https://github.com/user-attachments/assets/84d2a452-a3af-4d14-9df1-2d8cbb2c79d6" />
+
+**Progress Bar**
+<img width="1444" height="431" alt="Screenshot 2026-02-26 at 11 26 23 AM" src="https://github.com/user-attachments/assets/b88f13ab-5b8c-4f7d-a3f4-42126bdfbfc0" />
