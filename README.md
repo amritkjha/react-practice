@@ -50,3 +50,6 @@
 
 **Progress Bar**
 <img width="1444" height="431" alt="Screenshot 2026-02-26 at 11 26 23 AM" src="https://github.com/user-attachments/assets/b88f13ab-5b8c-4f7d-a3f4-42126bdfbfc0" />
+
+**Temperature Converter**
+<img width="1445" height="508" alt="Screenshot 2026-02-27 at 2 01 49 PM" src="https://github.com/user-attachments/assets/cd4e4d99-d2cd-409d-b4b2-2677e2c1d0f1" />
