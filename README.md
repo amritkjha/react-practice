@@ -53,3 +53,6 @@
 
 **Temperature Converter**
 <img width="1445" height="508" alt="Screenshot 2026-02-27 at 2 01 49 PM" src="https://github.com/user-attachments/assets/cd4e4d99-d2cd-409d-b4b2-2677e2c1d0f1" />
+
+**Tweet Component**
+<img width="1446" height="434" alt="Screenshot 2026-02-28 at 4 55 26 PM" src="https://github.com/user-attachments/assets/5a677ae5-d221-4a8f-ae7a-2ce2d69d914b" />
