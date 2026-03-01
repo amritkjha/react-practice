@@ -56,3 +56,6 @@
 
 **Tweet Component**
 <img width="1446" height="434" alt="Screenshot 2026-02-28 at 4 55 26 PM" src="https://github.com/user-attachments/assets/5a677ae5-d221-4a8f-ae7a-2ce2d69d914b" />
+
+**Accordion II**
+<img width="1442" height="435" alt="Screenshot 2026-03-01 at 5 02 36 PM" src="https://github.com/user-attachments/assets/60596d6c-098e-445d-aec2-9e572a9fa27a" />
