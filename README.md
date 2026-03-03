@@ -62,3 +62,6 @@
 
 **Analog Clock**
 <img width="1445" height="497" alt="Screenshot 2026-03-02 at 12 34 12 PM" src="https://github.com/user-attachments/assets/c598b707-b9f6-4244-958a-c6314b1c3dfe" />
+
+**Data table with sorting**
+<img width="1446" height="436" alt="Screenshot 2026-03-03 at 3 23 22 PM" src="https://github.com/user-attachments/assets/0f4abd40-84f2-4907-aa70-ae53fd39cd4f" />
