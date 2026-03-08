@@ -4,9 +4,11 @@
 **Contact Form**
 <img width="1444" height="467" alt="Screenshot 2026-03-07 at 10 29 58 PM" src="https://github.com/user-attachments/assets/67a1a5bf-0b53-459f-93e3-61fe23b1d5aa" />
 
+**Holy Grail Layout**
+<img width="1457" height="664" alt="Screenshot 2026-03-08 at 8 15 22 PM" src="https://github.com/user-attachments/assets/4643d3e6-a970-4c31-aa13-d1dde46e58b3" />
+
 **Mortgage Calculator**
 <img width="1469" height="660" alt="Screenshot 2026-02-10 at 6 28 30 PM" src="https://github.com/user-attachments/assets/18b37e5c-e89e-45ff-b7bd-887638628c2c" />
-
 
 **Tabs**
 <img width="1468" height="577" alt="Screenshot 2026-02-11 at 12 51 16 PM" src="https://github.com/user-attachments/assets/2723ccd5-300c-46b2-99be-4c4577e76a11" />
