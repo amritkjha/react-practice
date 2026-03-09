@@ -7,6 +7,9 @@
 **Holy Grail Layout**
 <img width="1457" height="664" alt="Screenshot 2026-03-08 at 8 15 22 PM" src="https://github.com/user-attachments/assets/4643d3e6-a970-4c31-aa13-d1dde46e58b3" />
 
+**Progress Bars**
+<img width="1446" height="474" alt="Screenshot 2026-03-09 at 2 44 47 PM" src="https://github.com/user-attachments/assets/8b9d6b0e-1be0-4056-86ec-96052aa39e7b" />
+
 **Mortgage Calculator**
 <img width="1469" height="660" alt="Screenshot 2026-02-10 at 6 28 30 PM" src="https://github.com/user-attachments/assets/18b37e5c-e89e-45ff-b7bd-887638628c2c" />
 
