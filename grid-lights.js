@@ -3,17 +3,16 @@ import React, { useState } from 'react';
 export default function GridLights() {
   const [lights, setLights] = React.useState(Array.from({length: 4}, ()=>Array.from({length: 4}, ()=>0)));
   const [store, setStore] = React.useState([]);
+  const [allOn, setAllOn] = React.useState(false);
   const [onLights, setOnLights] = React.useState(0);
-  const checkedAll = () => {
-    for(let i=0; i<lights.length; i++) {
-      for(let j=0; j<lights[0].length; j++) {
-        if(lights[i][j] == 0)return false;
-      }
-    }
-    return true;
-  }
+
+  React.useEffect(() => {
+    if(onLights==16)setAllOn(true);
+    else if(onLights==0)setAllOn(false);
+  }, [onLights])
+
   const handleClick = (i, j) => {
-    if(onLights == 16) {
+    if(allOn && lights[i][j]==1) {
       let newStore = [...store];
       let a = newStore.pop();
       setStore(newStore);
@@ -34,22 +33,37 @@ export default function GridLights() {
       setStore(newStore);
     }
   }
+
+  const onBulb = {
+    backgroundColor: 'yellow',
+    border: '1px solid #a9a9a9',
+    borderRadius: '50%',
+    height: '36px',
+    width: '36px'
+  }
+
+  const offBulb = {
+    backgroundColor: '#d3d3d3',
+    border: '1px solid #a9a9a9',
+    borderRadius: '50%',
+    height: '36px',
+    width: '36px'
+  }
+
   return (
     <div>
       <h2>Grid Lights</h2>
-      <div style={{ display: "grid", gridTemplateColumns: "repeat(4, 50px)", gap: "10px" }}>
+      <div style={{ display: "grid", gridTemplateColumns: "repeat(4, 50px)", gap: "10px", border: '1px solid #a9a9a9', width: 'fit-content', padding: '18px', borderRadius: '6px' }}>
         {lights.map((light, i) => {
           return (
             light.map((l, j) => {
               return (
-                <div onClick={()=>handleClick(i, j)}>light {l==1?'on':'off'}</div>
+                <div style={l==1?onBulb:offBulb} onClick={()=>handleClick(i, j)}></div>
               );
             })
           )
         })}
       </div>
-      {store}
-      {lights}
     </div>
   );
 }
