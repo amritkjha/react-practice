@@ -77,5 +77,8 @@
 **Data table with sorting**
 <img width="1446" height="436" alt="Screenshot 2026-03-03 at 3 23 22 PM" src="https://github.com/user-attachments/assets/0f4abd40-84f2-4907-aa70-ae53fd39cd4f" />
 
+**Grid Lights**
+<img width="1446" height="506" alt="Screenshot 2026-03-10 at 7 57 35 PM" src="https://github.com/user-attachments/assets/f23ce216-b5dc-47b0-8863-4d7e5643e467" />
+
 **Interactive Counter**
 <img width="1446" height="414" alt="Screenshot 2026-03-05 at 11 39 30 PM" src="https://github.com/user-attachments/assets/0aaf1468-a52a-4f13-b77e-78b54db89dde" />
