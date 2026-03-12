@@ -82,3 +82,6 @@
 
 **Interactive Counter**
 <img width="1446" height="414" alt="Screenshot 2026-03-05 at 11 39 30 PM" src="https://github.com/user-attachments/assets/0aaf1468-a52a-4f13-b77e-78b54db89dde" />
+
+**Birth Year Histogram**
+<img width="1444" height="452" alt="Screenshot 2026-03-12 at 4 00 07 PM" src="https://github.com/user-attachments/assets/f183af8a-a5b9-4208-8ca6-2d3ae2859748" />
