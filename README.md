@@ -85,3 +85,6 @@
 
 **Birth Year Histogram**
 <img width="1444" height="452" alt="Screenshot 2026-03-12 at 4 00 07 PM" src="https://github.com/user-attachments/assets/f183af8a-a5b9-4208-8ca6-2d3ae2859748" />
+
+**Quiz** - interview asked
+<img width="1423" height="356" alt="Screenshot 2026-03-17 at 12 35 20 AM" src="https://github.com/user-attachments/assets/5cde16e1-1862-48c2-8398-7ad1ce582bab" />
