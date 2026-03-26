@@ -88,3 +88,6 @@
 
 **Quiz** - interview asked
 <img width="1423" height="356" alt="Screenshot 2026-03-17 at 12 35 20 AM" src="https://github.com/user-attachments/assets/5cde16e1-1862-48c2-8398-7ad1ce582bab" />
+
+**Data Table - searching & sorting** - interview asked
+<img width="1468" height="416" alt="Screenshot 2026-03-26 at 11 24 42 PM" src="https://github.com/user-attachments/assets/76d027a6-ebff-4032-8607-b275f3312c79" />
