@@ -91,3 +91,6 @@
 
 **Data Table - searching & sorting** - interview asked
 <img width="1468" height="416" alt="Screenshot 2026-03-26 at 11 24 42 PM" src="https://github.com/user-attachments/assets/76d027a6-ebff-4032-8607-b275f3312c79" />
+
+**Document - with highlighted updates**
+<img width="1462" height="580" alt="Screenshot 2026-03-27 at 7 46 36 PM" src="https://github.com/user-attachments/assets/72b665ac-3435-4176-b216-2d40f61e5faf" />
