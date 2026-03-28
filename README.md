@@ -94,3 +94,6 @@
 
 **Document - with highlighted updates**
 <img width="1462" height="580" alt="Screenshot 2026-03-27 at 7 46 36 PM" src="https://github.com/user-attachments/assets/72b665ac-3435-4176-b216-2d40f61e5faf" />
+
+**Select all checkboxes**
+<img width="1028" height="597" alt="Screenshot 2026-03-29 at 1 10 28 AM" src="https://github.com/user-attachments/assets/d946b56b-1da8-44be-881c-b6c8e54896ab" />
