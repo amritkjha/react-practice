@@ -97,3 +97,6 @@
 
 **Select all checkboxes**
 <img width="1028" height="597" alt="Screenshot 2026-03-29 at 1 10 28 AM" src="https://github.com/user-attachments/assets/d946b56b-1da8-44be-881c-b6c8e54896ab" />
+
+**Submit messages**
+<img width="1407" height="713" alt="Screenshot 2026-03-31 at 6 41 10 PM" src="https://github.com/user-attachments/assets/6a2759ec-786c-445b-80f7-eb3ce790c36d" />
