@@ -100,3 +100,6 @@
 
 **Submit messages**
 <img width="1407" height="713" alt="Screenshot 2026-03-31 at 6 41 10 PM" src="https://github.com/user-attachments/assets/6a2759ec-786c-445b-80f7-eb3ce790c36d" />
+
+**Typewriter effect**
+<img width="985" height="415" alt="Screenshot 2026-04-01 at 11 04 47 PM" src="https://github.com/user-attachments/assets/73bc0750-b2cc-4ef7-869b-c2946480d91a" />
