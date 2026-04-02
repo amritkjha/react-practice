@@ -103,3 +103,6 @@
 
 **Typewriter effect**
 <img width="985" height="415" alt="Screenshot 2026-04-01 at 11 04 47 PM" src="https://github.com/user-attachments/assets/73bc0750-b2cc-4ef7-869b-c2946480d91a" />
+
+**Input with history**
+<img width="1426" height="685" alt="Screenshot 2026-04-02 at 11 02 15 PM" src="https://github.com/user-attachments/assets/6fd954f3-33d0-4307-b233-1d125ef3ea14" />
