@@ -106,3 +106,6 @@
 
 **Input with history**
 <img width="1426" height="685" alt="Screenshot 2026-04-02 at 11 02 15 PM" src="https://github.com/user-attachments/assets/6fd954f3-33d0-4307-b233-1d125ef3ea14" />
+
+**Hover Counter**
+<img width="1301" height="637" alt="Screenshot 2026-04-03 at 10 05 51 AM" src="https://github.com/user-attachments/assets/e99c489b-4d00-4525-ac8d-cdff93e7a327" />
