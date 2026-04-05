@@ -109,3 +109,6 @@
 
 **Hover Counter**
 <img width="1301" height="637" alt="Screenshot 2026-04-03 at 10 05 51 AM" src="https://github.com/user-attachments/assets/e99c489b-4d00-4525-ac8d-cdff93e7a327" />
+
+**Temperature Converter**
+<img width="2846" height="1322" alt="image" src="https://github.com/user-attachments/assets/366b0cf6-a3f4-403c-8bc6-80c2f7968244" />
