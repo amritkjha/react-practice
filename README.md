@@ -112,3 +112,6 @@
 
 **Temperature Converter**
 <img width="2846" height="1322" alt="image" src="https://github.com/user-attachments/assets/366b0cf6-a3f4-403c-8bc6-80c2f7968244" />
+
+**Reaction Time Game**
+<img width="1417" height="725" alt="Screenshot 2026-04-06 at 5 53 26 PM" src="https://github.com/user-attachments/assets/970becdb-7596-40b8-b304-70c13ebcd682" />
