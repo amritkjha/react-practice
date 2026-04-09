@@ -121,3 +121,6 @@
 
 **Label Filter Dashboard**
 <img width="1429" height="625" alt="Screenshot 2026-04-08 at 9 57 59 AM" src="https://github.com/user-attachments/assets/a04f9cdc-3a30-47d3-ac2c-c542886c5854" />
+
+**UseTheme Hook**
+<img width="1419" height="637" alt="Screenshot 2026-04-09 at 12 43 54 PM" src="https://github.com/user-attachments/assets/e059273c-935c-468d-946d-335343c8c12f" />
