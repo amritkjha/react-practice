@@ -124,3 +124,6 @@
 
 **UseTheme Hook**
 <img width="1419" height="637" alt="Screenshot 2026-04-09 at 12 43 54 PM" src="https://github.com/user-attachments/assets/e059273c-935c-468d-946d-335343c8c12f" />
+
+**UseTimer Hook**
+<img width="1417" height="693" alt="Screenshot 2026-04-10 at 11 35 24 AM" src="https://github.com/user-attachments/assets/f0abbe44-d61d-4e2d-bae0-7e3a82633ddb" />
