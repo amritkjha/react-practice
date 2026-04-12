@@ -130,3 +130,6 @@
 
 **Todo List (basic)**
 <img width="1420" height="638" alt="Screenshot 2026-04-11 at 3 56 43 PM" src="https://github.com/user-attachments/assets/525ff186-efd5-4002-8cdc-b3fd862a446e" />
+
+**Word Counter**
+<img width="1425" height="671" alt="Screenshot 2026-04-12 at 7 42 06 PM" src="https://github.com/user-attachments/assets/4be3a7fc-fe95-4e92-8272-f8e511725f67" />
