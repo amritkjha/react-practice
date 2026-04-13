@@ -133,3 +133,6 @@
 
 **Word Counter**
 <img width="1425" height="671" alt="Screenshot 2026-04-12 at 7 42 06 PM" src="https://github.com/user-attachments/assets/4be3a7fc-fe95-4e92-8272-f8e511725f67" />
+
+**useLocalStorage II**
+<img width="1425" height="597" alt="Screenshot 2026-04-13 at 1 09 06 PM" src="https://github.com/user-attachments/assets/8f539ad2-2442-43fd-97c6-ec2db09fcfae" />
