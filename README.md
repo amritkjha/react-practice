@@ -139,3 +139,6 @@
 
 **useGeoLocation Hook**
 <img width="1429" height="613" alt="Screenshot 2026-04-14 at 5 15 30 PM" src="https://github.com/user-attachments/assets/3c9a347d-e31f-4874-8e9c-ce3253b1a0d0" />
+
+**Copy to clipboard**
+<img width="1401" height="537" alt="Screenshot 2026-04-15 at 12 12 45 PM" src="https://github.com/user-attachments/assets/ae52a8ff-9891-4f79-8039-3a6aa37704e5" />
