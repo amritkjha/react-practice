@@ -142,3 +142,6 @@
 
 **Copy to clipboard**
 <img width="1401" height="537" alt="Screenshot 2026-04-15 at 12 12 45 PM" src="https://github.com/user-attachments/assets/ae52a8ff-9891-4f79-8039-3a6aa37704e5" />
+
+**Tab bar**
+<img width="1424" height="642" alt="Screenshot 2026-04-16 at 7 22 20 PM" src="https://github.com/user-attachments/assets/6e167fca-6f1e-48a8-9241-91827a2e3802" />
