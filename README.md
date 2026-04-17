@@ -145,3 +145,6 @@
 
 **Tab bar**
 <img width="1424" height="642" alt="Screenshot 2026-04-16 at 7 22 20 PM" src="https://github.com/user-attachments/assets/6e167fca-6f1e-48a8-9241-91827a2e3802" />
+
+**useWindowDimensions hook**
+![Uploading Screenshot 2026-04-17 at 6.23.09 PM.png…]()
