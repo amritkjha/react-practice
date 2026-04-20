@@ -154,3 +154,6 @@
 
 **Timer I**
 <img width="1418" height="529" alt="Screenshot 2026-04-20 at 11 53 25 AM" src="https://github.com/user-attachments/assets/612c23e8-b0eb-4560-9c17-a8b6037d2694" />
+
+**Squid Game**
+<img width="1424" height="686" alt="Screenshot 2026-04-21 at 12 28 25 AM" src="https://github.com/user-attachments/assets/878fb946-0b20-46be-9dcd-b7d8d648219d" />
