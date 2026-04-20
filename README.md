@@ -151,3 +151,6 @@
 
 **Local Storage IV**
 <img width="1431" height="596" alt="Screenshot 2026-04-18 at 10 58 51 AM" src="https://github.com/user-attachments/assets/66611452-ac9b-4ca7-8b5c-88f8324dffcd" />
+
+**Timer I**
+<img width="1418" height="529" alt="Screenshot 2026-04-20 at 11 53 25 AM" src="https://github.com/user-attachments/assets/612c23e8-b0eb-4560-9c17-a8b6037d2694" />
