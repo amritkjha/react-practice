@@ -160,3 +160,6 @@
 
 **Timer II**
 <img width="1426" height="575" alt="Screenshot 2026-04-21 at 6 01 28 PM" src="https://github.com/user-attachments/assets/16082ac0-5e9d-46e4-9db5-e53d53560627" />
+
+**Local Storage III**
+<img width="1423" height="613" alt="Screenshot 2026-04-22 at 4 27 14 PM" src="https://github.com/user-attachments/assets/d5d588bb-bd32-4ee8-9842-9d44cff2a076" />
