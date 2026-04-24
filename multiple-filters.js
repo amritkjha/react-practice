@@ -20,7 +20,7 @@ export default function MultipleFilters() {
       <div className="buttons-container">
         {filters.map((el, idx) => (
           <button
-            className={`button`}
+            className={`button ${selectedFilters.includes(el) && 'active'}`}
             key={`filters-${idx}`}
             onClick={() => handleFilterClick(el)}
           >
