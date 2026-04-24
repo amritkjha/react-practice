@@ -166,3 +166,6 @@
 
 **Link Previewer**
 <img width="1392" height="503" alt="Screenshot 2026-04-23 at 1 01 44 PM" src="https://github.com/user-attachments/assets/dab9b483-9d91-4bff-8d71-52197d2a2e67" />
+
+**Multiple filters**
+<img width="1422" height="436" alt="Screenshot 2026-04-24 at 12 09 53 PM" src="https://github.com/user-attachments/assets/d0db6131-19c0-4351-97cb-8b47afdfd9a0" />
