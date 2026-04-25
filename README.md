@@ -169,3 +169,6 @@
 
 **Multiple filters**
 <img width="1422" height="436" alt="Screenshot 2026-04-24 at 12 09 53 PM" src="https://github.com/user-attachments/assets/d0db6131-19c0-4351-97cb-8b47afdfd9a0" />
+
+**useKeyPress hook**
+<img width="1427" height="400" alt="Screenshot 2026-04-25 at 8 40 18 PM" src="https://github.com/user-attachments/assets/dd2de286-928c-46b1-ad58-abef33448ed0" />
