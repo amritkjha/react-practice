@@ -172,3 +172,6 @@
 
 **useKeyPress hook**
 <img width="1427" height="400" alt="Screenshot 2026-04-25 at 8 40 18 PM" src="https://github.com/user-attachments/assets/dd2de286-928c-46b1-ad58-abef33448ed0" />
+
+**Lightbox Gallery**
+<img width="1466" height="608" alt="Screenshot 2026-05-01 at 9 05 47 PM" src="https://github.com/user-attachments/assets/514ec53b-4b46-4bf7-b1bd-925361c4f41b" />
