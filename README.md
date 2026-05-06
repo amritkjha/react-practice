@@ -175,3 +175,6 @@
 
 **Lightbox Gallery**
 <img width="1466" height="608" alt="Screenshot 2026-05-01 at 9 05 47 PM" src="https://github.com/user-attachments/assets/514ec53b-4b46-4bf7-b1bd-925361c4f41b" />
+
+**Toasts**
+<img width="1455" height="673" alt="Screenshot 2026-05-07 at 3 24 52 AM" src="https://github.com/user-attachments/assets/c425e08c-09c9-4ece-8803-ca92bc113b5c" />
