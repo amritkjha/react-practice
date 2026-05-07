@@ -178,3 +178,6 @@
 
 **Toasts**
 <img width="1455" height="673" alt="Screenshot 2026-05-07 at 3 24 52 AM" src="https://github.com/user-attachments/assets/c425e08c-09c9-4ece-8803-ca92bc113b5c" />
+
+**Star Rating** – with hover sensitivity
+<img width="1416" height="495" alt="Screenshot 2026-05-08 at 12 08 48 AM" src="https://github.com/user-attachments/assets/b881c73d-ff0a-4c32-b16a-04a72f52bf3c" />
