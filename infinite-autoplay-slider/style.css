@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@100;200;300;400;500;600;700&display=swap');
+
+body {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.mainDiv {
+  background: linear-gradient(to bottom, #5b21b6, #1e40af);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: #fff;
+  width: max-content;
+  overflow-x: auto;
+  gap: 9px;
+  animation: scroll-loop 10s linear infinite;
+}
+
+.container:hover,
+.mainDiv {
+  animation-duration: 20s;
+}
+
+@keyframes scroll-loop {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-42%);
+  }
+}
+
+.cardStyle {
+  width: 200px;
+  height: 154px;
+  border: 1px solid black;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 6px;
+  background-color: white;
+  color: black;
+  transform: rotate(-3deg);
+  border-radius: 3px;
+}
+
+.avatarDiv {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.avatar {
+  width: 27px;
+  height: 27px;
+  border-radius: 50%;
+}
