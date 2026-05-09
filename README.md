@@ -181,3 +181,6 @@
 
 **Star Rating** – with hover sensitivity
 <img width="1416" height="495" alt="Screenshot 2026-05-08 at 12 08 48 AM" src="https://github.com/user-attachments/assets/b881c73d-ff0a-4c32-b16a-04a72f52bf3c" />
+
+**Infinite Autoplay Slider**
+<img width="1383" height="515" alt="Screenshot 2026-05-10 at 1 21 21 AM" src="https://github.com/user-attachments/assets/092007d9-d13a-4ba5-80aa-9b897ca8c97a" />
