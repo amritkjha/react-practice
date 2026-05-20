@@ -184,3 +184,6 @@
 
 **Infinite Autoplay Slider**
 <img width="1383" height="515" alt="Screenshot 2026-05-10 at 1 21 21 AM" src="https://github.com/user-attachments/assets/092007d9-d13a-4ba5-80aa-9b897ca8c97a" />
+
+**Height adjusted textarea**
+<img width="1442" height="746" alt="Screenshot 2026-05-20 at 11 00 35 AM" src="https://github.com/user-attachments/assets/7ace780b-f5ed-4757-b9f5-0e68685cca98" />
